@@ -14,15 +14,15 @@ This script provides a function to read and interpret data from a Vantage weathe
 
 1. **Clone the Repository**
 
-   \```bash
+   ```bash
    git clone [https://github.com/F3rNaNDEZ57/Davis_VantagePro2_Serial_communication]
-   \```
+   ```
 
 2. **Navigate to Directory**
 
-   \```bash
+   ```bash
    cd path-to-your-repo
-   \```
+   ```
 
 3. **Install Dependencies**
 
@@ -39,9 +39,9 @@ This script provides a function to read and interpret data from a Vantage weathe
 By default, the `read_vantage_data` function will attempt to read data from the serial port labeled `COM2`. You can adjust the port and verbosity using the function's parameters.
 
 Example:
-\```python
+```python
 data_dict = read_vantage_data(port="COM3", verbose=True)
-\```
+```
 
 ## Output
 
@@ -62,5 +62,3 @@ The function also returns a dictionary with parsed data values in metric units.
 ## Author
 
 [Fernando WKD]
-
-
