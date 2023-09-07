@@ -16,19 +16,19 @@ This script provides a function to read and interpret data from a Vantage weathe
 
    ```bash
    git clone [https://github.com/F3rNaNDEZ57/Davis_VantagePro2_Serial_communication]
-   ```/
+   ```
 
 2. **Navigate to Directory**
 
    ```bash
    cd path-to-your-repo
-   ```/
+   ```
 
 3. **Install Dependencies**
 
    ```bash
    pip install -r requirements.txt
-   ```/
+   ```
 
 4. **Python Version**
    
