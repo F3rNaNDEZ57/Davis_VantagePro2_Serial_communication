@@ -26,9 +26,9 @@ This script provides a function to read and interpret data from a Vantage weathe
 
 3. **Install Dependencies**
 
-   \```bash
+   ```\bash
    pip install -r requirements.txt
-   ```\
+   \```
 
 4. **Python Version**
    
